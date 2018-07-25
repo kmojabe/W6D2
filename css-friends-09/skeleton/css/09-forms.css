@@ -1,0 +1,46 @@
+/* PHASE 9: Forms */
+.thumb {
+
+}
+
+.input {
+  background-color: lightgray;
+  width: 600px;
+  padding: 10px;
+}
+
+.input-title {
+  display: block;
+  background-color: white;
+  margin: auto;
+  width: 90%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+/* .input label {
+  padding: 10px;
+} */
+ .input label {
+   display: block;
+   padding-bottom: 10px;
+   font-weight: 700;
+   padding-left: 10px;
+ }
+
+.input-text {
+  display: block;
+  width: 90%;
+  background-color: white;
+  border: 1px solid black;
+  margin: auto;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.input button {
+  border: 1px solid black;
+}

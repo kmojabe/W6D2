@@ -1,0 +1,40 @@
+h1 {
+  display: block;
+  /* margin: auto; */
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+  border: 3px solid black;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.square {
+  width: 94px;
+  height: 94px;
+  border: 3px solid black;
+  font-size: 70px;
+  line-height: 90px;
+}
+
+.square:hover {
+  background-color: yellow;
+}
+
+h2 {
+  display: block;
+  /* margin: auto; */
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+}

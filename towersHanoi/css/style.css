@@ -1,0 +1,58 @@
+.thickest {
+  height: 50px;
+  width: 100%;
+  background-color: grey;
+  margin: 10px auto;
+  border-radius: 50px;
+}
+
+.thicc {
+  height: 50px;
+  width: 66%;
+  background-color: grey;
+  margin: 10px auto;
+  border-radius: 50px;
+}
+
+.not-even-thicc {
+  width: 33%;
+  height: 50px;
+  background-color: grey;
+  margin: 10px auto;
+  border-radius: 50px
+}
+
+.empty {
+  height: 50px;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+.hanoi ul {
+  display: inline-block;
+  float: none;
+  height: 200px;
+  width: 180px;
+  margin: 15px; 
+  border-bottom: 10px solid black;
+}
+
+.hanoi ul:hover {
+  border-bottom: 10px solid deepskyblue;
+}
+
+h1 {
+  margin-top: 40px;
+  font-size: 100px;
+  font-weight: 700;
+  font-family: fantasy;
+  margin-bottom: 20px;
+}
+
+.hanoi {
+  display: block;
+  text-align: center;
+  vertical-align: bottom;
+}
